@@ -1,7 +1,8 @@
 import sys
 import os
 
-
+## CREDITS: https://github.com/BlueAmulet/SourceRTXTweaks
+## THIS CODE IS A MODIFIED VERSION OF THE GMOD PATCHER MADE BY 'BlueAmulet'
 
 def findmask(data, hexstr, start=0):
     if '??' not in hexstr:
