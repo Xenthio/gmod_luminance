@@ -1,13 +1,13 @@
-[
+{
 	"game": 
-	[
+	{
 		"name": "Garry's Mod",
 		"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Garry%27s_Mod_logo.svg/120px-Garry%27s_Mod_logo.svg.png",
 		"backgrounds": 
-			[
-				"https://cdn.cloudflare.steamstatic.com/steam/apps/4000/capsule_616x353.jpg"
-			]
-	],
+		[
+			"https://cdn.cloudflare.steamstatic.com/steam/apps/4000/capsule_616x353.jpg"
+		]
+	},
 	"screenshots": 
 	[
 		"https://i.imgur.com/YntizLG.jpg",
@@ -16,4 +16,4 @@
 	"version": "0.0.1",
 	"compatibility": "60",
 	"arguments": "-allowdebug -dxlevel 90 -nod3d9ex +mat_dxlevel 90 +mat_disable_d3d9ex 1 -w 2560 -h 1440 -noborder -windowed -debug +sv_cheats 1 +r_3dsky 0 -insecure +r_WaterDrawReflection 0 +r_WaterDrawRefraction 0 +r_shadows 0 +r_frustumcullworld 0 +r_unloadlightmaps 1 +mat_drawflat 1 +mat_specular 0 +mat_viewportscale 0 +mat_bumpmap 0 +mat_normalmap 0 +mat_parallaxmap 0 +r_staticprop_lod 0 +r_lod 0"
-]
+}
