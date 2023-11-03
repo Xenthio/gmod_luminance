@@ -5,12 +5,18 @@
 		"logo": "https://i.imgur.com/FAyuipM.png",
 		"backgrounds": 
 		[
-			"https://cdn.cloudflare.steamstatic.com/steam/apps/4000/capsule_616x353.jpg"
+			"https://images3.alphacoders.com/557/557525.jpg",
+			"https://wallpaperset.com/w/full/1/3/4/168857.jpg",
+			"https://wallpaperaccess.com/full/1801205.jpg"
 		]
 	},
 	"screenshots": 
 	[
-		"https://i.imgur.com/YntizLG.jpg"
+		"https://i.imgur.com/YntizLG.jpg",
+		"https://i.imgur.com/9kh5qng.png",
+		"https://i.imgur.com/4mGdQTX.png",
+		"https://i.imgur.com/XXBvYKW.png",
+		"https://i.imgur.com/fuT3gab.png"
 	],
 	"version": "0.0.1",
 	"compatibility": "60",
